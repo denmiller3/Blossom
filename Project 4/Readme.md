@@ -1,6 +1,6 @@
-### Project 4 : Webscrapping Using Beautiful Soup###
+### Project 4 : Webscrapping Using Beautiful Soup
 
-**Purpose: The aim of this project is to scrape information from 	[Meqasa](https://www.meqasa.com) **
+**Purpose: The aim of this project is to scrape information from 	[Meqasa](https://www.meqasa.com) 
 
 **Tools Used:**
 - Python
